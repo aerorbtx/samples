@@ -1,0 +1,1 @@
+These drone dynamics documents were found on the internet.  Authorship remains with the originator.  In some cases, the author has not claimed their work, but no credit is taken by the maintainer of this repository.
